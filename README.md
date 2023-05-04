@@ -14,8 +14,6 @@
 `docker exec` - выполнение команды внутри запущенного контейнера
 `docker pull` - загрузка образа Docker из репозитория Docker Hub или другого реестра образов
 `docker push` - отправка локального образа Docker в репозиторий Docker Hub или другой реестр образов
-`docker-compose up` - запуск контейнеров из файла docker-compose.yml
-`docker-compose down` - остановка и удаление контейнеров, созданных с помощью файла docker-compose.yml
 ```
 ```bash
 ---Dockerfile---
